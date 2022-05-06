@@ -107,7 +107,7 @@ python3 start.py tools
 **Clone and Install Script**
 
 ```shell script
-git clone https://github.com/MatrixTM/MHDDoS.git
+git clone https://github.com/IIMARKY123/DDoS.git
 cd MHDDoS
 pip install -r requirements.txt
 ```
