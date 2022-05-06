@@ -57,6 +57,11 @@ with socket(AF_INET, SOCK_DGRAM) as s:
     __ip__ = s.getsockname()[0]
 print('This tool/script is protected by IIMARKY123')
 sleep(1)
+print("If you don't have the password, you have to sent 6.000VND to the security of this tool")
+print('Bank information:')
+print('Bank: MBBank')
+print('STK: 0358700057')
+sleep(1)
 z=1
 am = input('Please enter the password to run this script:')
 if(am=='IIMARKY123'):
