@@ -1,6 +1,5 @@
-<p align="center"><img src="https://cdn.discordapp.com/attachments/938175699326484490/948263435412598864/unknown_2.png" width="400px" height="150px" alt="ddos"></p>
 
-<h1 align="center">MHDDoS - DDoS Attack Script With 55 Methods</h1>
+<h1 align="center">DDoS - DDoS Attack Script With 55 Methods</h1>
 <em><h5 align="center">(Programming Language - Python 3)</h5></em>
 
 <p align="center">
@@ -8,7 +7,6 @@
 <a href="#"><img alt="MH-DDoS last commit (main)" src="https://img.shields.io/github/last-commit/MatrixTM/MHDDoS/main?color=green&style=for-the-badge"></a>
 <a href="#"><img alt="MH-DDoS Repo stars" src="https://img.shields.io/github/stars/MatrixTM/MHDDoS?style=for-the-badge&color=yellow"></a>
 <a href="#"><img alt="MH-DDoS License" src="https://img.shields.io/github/license/MatrixTM/MHDDoS?color=orange&style=for-the-badge"></a>
-<a href="https://github.com/MatrixTM/MHDDoS/issues"><img alt="MatrixTM issues" src="https://img.shields.io/github/issues/MatrixTM/MHDDoS?color=purple&style=for-the-badge"></a>
   
 <p align="center">Please Don't Attack websites without the owners consent.</p>
 
@@ -88,9 +86,6 @@ python3 start.py tools
  * [GitHub][github]
 #### Like the project? Leave a star on the repository!
 
-## Downloads
-
-You can download it from [GitHub Releases](https://github.com/MatrixTM/MHDDoS/releases)
 
 ### Getting Started
 
@@ -108,20 +103,6 @@ You can download it from [GitHub Releases](https://github.com/MatrixTM/MHDDoS/re
 * [yarl](https://github.com/aio-libs/yarl)
 ---
 
-**Videos**
-
-* Aparat: https://www.aparat.com/v/bHcP9
-* YouTube : Coming soon...
-
-**Tutorial**
-
-* Aprat : https://aparat.com/v/XPn5Z
-* YouTube : Coming soon...
----
-
-## Documentation
-
-You can read it from [GitHub Wiki](https://github.com/MatrixTM/MHDDoS/wiki)
 
 **Clone and Install Script**
 
@@ -132,10 +113,6 @@ pip install -r requirements.txt
 ```
 
 [python3]: https://python.org 'Python3'
-[github]: https://github.com/MatrixTM/MHDDoS/issues 'GitHub'
 
 ---
-
-**💰 Donation Links:**
-* https://idpay.ir/mh-prodev
 
